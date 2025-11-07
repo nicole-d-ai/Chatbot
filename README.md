@@ -1,4 +1,4 @@
-#🤖 Chatbot
+# 🤖 Chatbot
 
 Procesamiento del Habla
 
@@ -8,9 +8,9 @@ Este proyecto consiste en la creación de un Chatbot de tipo retrieval-based (ba
 
 Se desarrollaron dos versiones del chatbot:
 
-💬 Chatbot con TF-IDF y Similitud del Coseno
+* 💬 Chatbot con TF-IDF y Similitud del Coseno
 
-🧠 Chatbot con Embeddings preentrenados en español (spaCy)
+* 🧠 Chatbot con Embeddings preentrenados en español (spaCy)
 
 La temática elegida fue una App de servicios que conecta clientes con profesionales (gasistas, electricistas, albañiles, diseñadores, etc.), simulando un asistente que responde consultas frecuentes de usuarios.
 
